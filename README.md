@@ -1,2 +1,2 @@
 # swimschedule
-training schedule program
+Training schedule program

@@ -1,3 +1,0 @@
-// Instruction page
-
-one more instruction
